@@ -1,5 +1,5 @@
 # Gunners-In-Dungeon
-
+Current version V0.1 including one level with 80% main gameplay systems and complete random dungeon generating system.
 ## Full game elements including
 1. Full top-down character movement with Dashing
 
